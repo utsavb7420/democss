@@ -1,0 +1,29 @@
+.example-1{
+    border: 1px solid black;
+    margin:50px;
+    height:250px;
+    width:250px;
+    padding:25px;
+    border-radius: 3%;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    background-color: rgba(255,160,0,1)
+}
+
+#hello {
+    text-align: center;
+    color: rgba(0,255,166,1);
+    font-size: 2em;
+    background-color: darkgrey;
+}
+
+#earth {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgba(0,255,166,1);
+    font-size: 2em;
+    background-color: crimson;
+    border-radius: 4
+    padding: 10px;
+body {
+    background-color:rgba(190,0,255,1);
+}
